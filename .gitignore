@@ -1,0 +1,11 @@
+.vs/
+ElysiumPlayer.AAudio/bin/
+ElysiumPlayer.AAudio/obj/
+ElysiumPlayer.AAudio/*.user
+TestAAudio2/TestAAudio2/bin/
+TestAAudio2/TestAAudio2/obj/
+TestAAudio2/TestAAudio2/*.user
+TestAAudio2/TestAAudio2.Android/bin/
+TestAAudio2/TestAAudio2.Android/obj/
+TestAAudio2/TestAAudio2.Android/*.user
+*.user
